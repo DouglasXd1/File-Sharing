@@ -23,7 +23,6 @@ class Data:
  📌 /speedtest - Untuk Mengetes kecepatan server bot
  📌 /broadcast - Untuk mengirim pesan broadcast ke pengguna bot
 
-👑 Pembuat Saya </b><a href='https://t.me/TeknoProject'>@TeknoProject</a>
 """
 
     close = [
@@ -50,9 +49,8 @@ class Data:
 @{} adalah Bot Telegram untuk menyimpan Postingan atau File yang dapat Diakses melalui Link Khusus.
 
  • Creator: @{}
- • Owner Repo: @Rzrgnshn
  • Framework: <a href='https://docs.pyrogram.org'>Pyrogram</a>
- • Source Code: <a href='https://github.com'>Tekno Project</a>
+ • Source Code: <a href='https://github.com'>Razor Project V3</a>
 
-👑 Pembuat Saya </b><a href='https://t.me/TeknoProject'>@TeknoProject</a>
+益 Pembuat Saya </b><a href='https://t.me/Rzrvstheworld'>@Rzrvstheworld</a>
 """
